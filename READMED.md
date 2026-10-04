@@ -1,0 +1,1 @@
+[![Architecture diagram of bashutosh017/credit-card-approval-ml-model](https://gitdiagram.com/bashutosh017/credit-card-approval-ml-model/diagram.png)](https://gitdiagram.com/bashutosh017/credit-card-approval-ml-model?utm_source=readme&utm_medium=picture)
