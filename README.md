@@ -4,6 +4,10 @@ A robust, production-grade Machine Learning pipeline built using **LightGBM** to
 
 This project addresses real-world challenges in risk management—including **Class Imbalance** (80/20 market skew) and **Stochastic Market Noise** (field verification failures, documentation errors)—shifting it from a simple academic exercise to an enterprise-grade classification model.
 
+[![Architecture diagram of bashutosh017/credit-card-approval-ml-model](https://gitdiagram.com/bashutosh017/credit-card-approval-ml-model/diagram.png)](https://gitdiagram.com/bashutosh017/credit-card-approval-ml-model?utm_source=readme&utm_medium=picture)
+
+
+
 ---
 
 ## 📌 Project Overview
